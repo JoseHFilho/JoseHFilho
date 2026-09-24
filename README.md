@@ -21,12 +21,12 @@ APIs REST, Java, Spring Boot, Python e bancos de dados.
 Gosto de desenvolver projetos, aprender novas tecnologias e buscar soluções
 práticas para problemas reais.
 
-- 🎓 Engenharia de Software — UniEVANGÉLICA
-- 📍 Anápolis - GO, Brasil
-- 💻 Foco em desenvolvimento Back-end
-- 🌱 Atualmente estudando Java, Spring Boot, Python e SQL
-- 🚀 Interesse em Software Engineering, Dados e Inteligência Artificial
-- 📚 Sempre buscando aprender novas tecnologias
+- Engenharia de Software — UniEVANGÉLICA
+- Anápolis - GO, Brasil
+- Foco em desenvolvimento Back-end
+- Atualmente estudando Java, Spring Boot, Python e SQL
+- Interesse em Software Engineering, Dados e Inteligência Artificial
+- Sempre buscando aprender novas tecnologias
 
 ---
 
@@ -117,13 +117,6 @@ práticas para problemas reais.
 
 ---
 
-## 🚀 Projetos em destaque
-
-### 🔹 ServiceHub API
-
-API REST desenvolvida utilizando Java e Spring Boot, aplicando conceitos de
-arquitetura em camadas e desenvolvimento Back-end.
-
 **Principais tecnologias:**
 
 - Java
@@ -135,16 +128,14 @@ arquitetura em camadas e desenvolvimento Back-end.
 - Maven
 - Git e GitHub
 
-🔗 [Acessar projeto ServiceHub API](https://github.com/JoseHFilho/ServiceHub_API)
-
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 ```text
-☕ Java
-🌱 Spring Boot
-🐍 Python
-🗄️ SQL e Banco de Dados
-🔗 APIs REST
-🤖 Inteligência Artificial
+Java
+Spring Boot
+Python
+SQL e Banco de Dados
+APIs REST
+Inteligência Artificial
