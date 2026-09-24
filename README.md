@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 José Henrique Fernandes de Carvalho Filho</h1>
 
 <h3 align="center">
-  Software Engineering Student | Backend Developer
+  Estudante de Engenharia de Software
 </h3>
 
 <p align="center">
